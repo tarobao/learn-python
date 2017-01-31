@@ -312,7 +312,7 @@ my_tuple[0] # 1
 my_tuple[0] = 3 # Illegal! You get a TypeError
 ```
 
-You can use all the same operations we saw for lists. In addition, you can unpack tubles into variables!
+You can use all the same operations we saw for lists. In addition, you can unpack tuples into variables!
 
 ```python
 var_1, var_2, var_3, var_4 = (1, 2, 3, 4)
